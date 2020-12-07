@@ -5,7 +5,7 @@
 - [ByWave](https://bywave.io/aff.php?aff=3215)
 
 ## 免费
-- [蓝灯 全平台]https://github.com/getlantern/download)
+- [蓝灯 全平台](https://github.com/getlantern/download)
 - 几鸡（全平台,但不算最好用）
 - 老王（全平台，安卓最优，强烈推荐）
 - UPX（仅限安卓，操作简单稳定）
